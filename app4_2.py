@@ -1,4 +1,4 @@
-print('# app4_2.py')
+print('& app4_2.py')
 
 import sys
 

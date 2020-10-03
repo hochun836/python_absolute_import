@@ -1,4 +1,4 @@
-print('# app5_2.py')
+print('& app5_2.py')
 
 print('[in app5_2.py] before import app5_1.py')
 

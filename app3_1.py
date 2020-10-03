@@ -1,7 +1,7 @@
 # example:
 #     1. 兩個 module 的 sys 會不會一樣
 
-print('# app3_1.py')
+print('& app3_1.py')
 
 import sys
 

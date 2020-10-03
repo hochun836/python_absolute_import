@@ -1,1 +1,1 @@
-print('# packageB')
+print('& packageB')

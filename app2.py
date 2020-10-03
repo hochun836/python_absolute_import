@@ -1,7 +1,7 @@
 # example:
 #     1. dir() 的作用
 
-print('# app2.py')
+print('& app2.py')
 
 print('dir():', dir())
 

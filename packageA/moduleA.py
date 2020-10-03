@@ -1,1 +1,1 @@
-print('# moduleA')
+print('& moduleA')

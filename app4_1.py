@@ -1,7 +1,7 @@
 # example:
 #     1. 實際觀察 import 與 sys.modules 的關係
 
-print('# app4_1.py')
+print('& app4_1.py')
 
 import sys
 

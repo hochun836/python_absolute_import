@@ -4,7 +4,7 @@
 #     3. import 的流程
 #     4. import package 意味著什麼
 
-print('# app1.py')
+print('& app1.py')
 
 import sys
 for idx, path in enumerate(sys.path):

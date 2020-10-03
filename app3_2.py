@@ -1,3 +1,3 @@
-print('# app3_2.py')
+print('& app3_2.py')
 
 import sys

@@ -1,7 +1,7 @@
 # example:
 #     1. circle import 到底會不會報錯
 
-print('# app5_1.py')
+print('& app5_1.py')
 
 firstName = 'peter'
 
